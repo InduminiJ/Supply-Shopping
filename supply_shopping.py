@@ -1,6 +1,3 @@
-#Indumini Jayakody
-#101109229
-
 #input for the character choice
 job = int(input("Please choose a character\nPress the nunmber to confirm choice\n\n1.Teacher\n2.Principal\n3.Vice Principal\n\nEnter choice: "))
 
